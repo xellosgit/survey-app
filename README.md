@@ -1,7 +1,7 @@
 
 ---
 
-## Survey Full Stack Application
+## Survey Application
 
 This project is a full-stack web application built using **Laravel**, **Vue.js**, and **Tailwind CSS**. It allows users to create, manage, and participate in surveys. The application is designed with a modern front-end and robust back-end architecture, making it a great example of a scalable, maintainable full-stack solution.
 
