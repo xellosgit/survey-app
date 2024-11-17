@@ -61,9 +61,3 @@ This project is a full-stack web application built using **Laravel**, **Vue.js**
 - Access the application at `http://localhost:8000`.
 - Register a new user, create surveys, and start collecting responses.
 
-### Acknowledgments
-This project was built as part of a YouTube tutorial. Check out the [video here](https://youtu.be/WLQDpY7lOLg) for a step-by-step guide.
-
---- 
-
-Would you like any additional sections or modifications to this description?
