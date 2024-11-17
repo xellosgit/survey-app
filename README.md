@@ -1,24 +1,3 @@
-I'll need to extract the contents of the uploaded ZIP file to understand the project. Let me do that now.
-
-The project appears to be a **Laravel + Vue.js** application based on the folder structure and files. It includes:
-
-- Laravel backend (`app`, `routes`, `database`, `config`)
-- Vue.js frontend (`resources`, `vue`)
-- Configuration files like `composer.json`, `package.json`, and `webpack.mix.js`
-- Environment configuration (`.env.example`)
-- Build tools (`webpack.mix.js`)
-
-I’ll review the `README.md` file to see if it contains any existing documentation or relevant details.
-
-The existing `README.md` file introduces the project as a **Full Stack Survey Application** built using:
-
-- **Laravel** (backend)
-- **Vue.js** (frontend)
-- **Tailwind CSS** (styling)
-
-Additionally, it references a **YouTube video** tutorial linked to the project.
-
-I can enhance the description to provide a more detailed overview. Here’s an improved version:
 
 ---
 
